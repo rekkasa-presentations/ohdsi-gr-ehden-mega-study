@@ -1,0 +1,17 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "EHDEN Mega-Study"
+  navbar:
+    left:
+      - text: "Αρχική"
+        href: index.html
+      - text: "Παρουσίαση"
+        href: presentation.html
+    right:
+      - icon: envelope
+        href: "mailto:arekkas@certh.gr"
+      - icon: github
+        href: "https://github.com/rekkasa-presentations/prediction-ohdsi-gr"
